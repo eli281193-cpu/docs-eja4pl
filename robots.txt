@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-mlcdg1.kujang138btc.space/sitemap.xml
